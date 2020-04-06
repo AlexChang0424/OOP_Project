@@ -4,16 +4,16 @@ This is a classic retro spaceship shooter game where you control a spaceship thr
 Your main objective in the game is to stay alive as long as possible by avoiding and shooting down aliens while they traversing down the screen.As you defeat more aliens,they will become faster, will require more hits to kill them but you will also shoot faster in the process.
  You have only one life and if you collide with the alien you are dead and a pop-up window will appear telling you your final score and the game ends there.
 
-# The controls:
+# The controls :
 
 Bullet firing is automated and you just have to control the Spaceship using the 'LEFT' (<---) and 'RIGHT' (--->)  arrow keys to move left and right.
 
 
-# Developers of this project
+# Developers of this project :
 
 This project is developed and maintained by Khor Ji Jun(19000582) and Chang Kwong Ming(18001074).
 
-## The various classes used to make this project:
+## The various classes used to make this project :
 * `Alien.java` - attributes belonging to the alien is stored here.(Eg. alienX position,alienY position,alien's speed,its hitpoint)
 * `Background.java` - contains the code to get background picture.
 * `Spaceship.java` - contains attributes of the spaceship(Eg. shipX position, shipY position)
